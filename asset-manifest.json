@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bluecolabkiosk/static/css/main.be5105ad.css",
-    "main.js": "/bluecolabkiosk/static/js/main.3ee5b5b2.js",
+    "main.css": "/bluecolabkiosk/static/css/main.7908e2bb.css",
+    "main.js": "/bluecolabkiosk/static/js/main.a3be5013.js",
     "static/media/background.mp4": "/bluecolabkiosk/static/media/background.3e7dbb36e4fe8aec42a7.mp4",
     "static/media/revicons.eot": "/bluecolabkiosk/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/bluecolabkiosk/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/bluecolabkiosk/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/bluecolabkiosk/index.html",
-    "main.be5105ad.css.map": "/bluecolabkiosk/static/css/main.be5105ad.css.map",
-    "main.3ee5b5b2.js.map": "/bluecolabkiosk/static/js/main.3ee5b5b2.js.map"
+    "main.7908e2bb.css.map": "/bluecolabkiosk/static/css/main.7908e2bb.css.map",
+    "main.a3be5013.js.map": "/bluecolabkiosk/static/js/main.a3be5013.js.map"
   },
   "entrypoints": [
-    "static/css/main.be5105ad.css",
-    "static/js/main.3ee5b5b2.js"
+    "static/css/main.7908e2bb.css",
+    "static/js/main.a3be5013.js"
   ]
 }
