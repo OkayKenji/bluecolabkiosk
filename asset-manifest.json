@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/bluecolabkiosk/static/css/main.7908e2bb.css",
-    "main.js": "/bluecolabkiosk/static/js/main.a3be5013.js",
+    "main.css": "/bluecolabkiosk/static/css/main.07606ac4.css",
+    "main.js": "/bluecolabkiosk/static/js/main.0f048f49.js",
     "static/media/background.mp4": "/bluecolabkiosk/static/media/background.3e7dbb36e4fe8aec42a7.mp4",
+    "static/media/logo512.png": "/bluecolabkiosk/static/media/logo512.a63e019cfa19379b4a91.png",
+    "static/media/PondWaterData.png": "/bluecolabkiosk/static/media/PondWaterData.9477a45ea199e698c35f.png",
+    "static/media/RTK.png": "/bluecolabkiosk/static/media/RTK.77d8ea7f462992d337d1.png",
     "static/media/revicons.eot": "/bluecolabkiosk/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/bluecolabkiosk/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/bluecolabkiosk/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/bluecolabkiosk/index.html",
-    "main.7908e2bb.css.map": "/bluecolabkiosk/static/css/main.7908e2bb.css.map",
-    "main.a3be5013.js.map": "/bluecolabkiosk/static/js/main.a3be5013.js.map"
+    "main.07606ac4.css.map": "/bluecolabkiosk/static/css/main.07606ac4.css.map",
+    "main.0f048f49.js.map": "/bluecolabkiosk/static/js/main.0f048f49.js.map"
   },
   "entrypoints": [
-    "static/css/main.7908e2bb.css",
-    "static/js/main.a3be5013.js"
+    "static/css/main.07606ac4.css",
+    "static/js/main.0f048f49.js"
   ]
 }
