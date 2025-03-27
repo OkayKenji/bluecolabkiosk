@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bluecolabkiosk/static/css/main.13b4fa44.css",
-    "main.js": "/bluecolabkiosk/static/js/main.6eaa0ca7.js",
+    "main.js": "/bluecolabkiosk/static/js/main.6b17e2b0.js",
     "static/media/background.mp4": "/bluecolabkiosk/static/media/background.3e7dbb36e4fe8aec42a7.mp4",
     "static/media/jeopardy.jpg": "/bluecolabkiosk/static/media/jeopardy.18a705ba63aabb90bee7.jpg",
     "static/media/splashyfish.jpg": "/bluecolabkiosk/static/media/splashyfish.df966d0c34ad8d7f6de4.jpg",
@@ -14,10 +14,10 @@
     "static/media/revicons.woff": "/bluecolabkiosk/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/bluecolabkiosk/index.html",
     "main.13b4fa44.css.map": "/bluecolabkiosk/static/css/main.13b4fa44.css.map",
-    "main.6eaa0ca7.js.map": "/bluecolabkiosk/static/js/main.6eaa0ca7.js.map"
+    "main.6b17e2b0.js.map": "/bluecolabkiosk/static/js/main.6b17e2b0.js.map"
   },
   "entrypoints": [
     "static/css/main.13b4fa44.css",
-    "static/js/main.6eaa0ca7.js"
+    "static/js/main.6b17e2b0.js"
   ]
 }
